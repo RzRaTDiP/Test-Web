@@ -16,7 +16,7 @@ body, html {
 
 /* First image (Logo. Full height) */
 .bgimg-1 {
-  background-image: url('https://github.com/RzRaTDiP/Test-Web/blob/main/Photo/bg2.jpg');
+  background-image: url('Photo/bg2.jpg');
   min-height: 100%;
 }
 
@@ -28,7 +28,7 @@ body, html {
 
 /* Third image (Contact) */
 .bgimg-3 {
-  background-image: url("https://github.com/RzRaTDiP/Test-Web/blob/main/Photo/bg3.jpg");
+  background-image: url("Photo/bg3.jpg");
   min-height: 400px;
 }
 
@@ -303,4 +303,5 @@ hr{border:0;border-top:1px solid #eee;margin:20px 0}
   display: block;
 
 }
+
 
