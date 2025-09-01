@@ -22,7 +22,7 @@ body, html {
 
 /* Second image (Portfolio) */
 .bgimg-2 {
-  background-image: url("https://github.com/RzRaTDiP/Test-Web/blob/main/Photo/bg1.jpg");
+  background-image: url("Photo/bg1.jpg");
   min-height: 400px;
 }
 
@@ -303,3 +303,4 @@ hr{border:0;border-top:1px solid #eee;margin:20px 0}
   display: block;
 
 }
+
